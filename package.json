@@ -58,7 +58,7 @@
     "classnames": "^2.3.1",
     "debounce": "^1.2.1",
     "domhandler": "4.2.2",
-    "html-react-parser": "1.3.0",
+    "html-react-parser": "1.4.14",
     "identity-obj-proxy": "^3.0.0",
     "mobx": "^6.3.2",
     "mobx-react-lite": "^3.2.0",
